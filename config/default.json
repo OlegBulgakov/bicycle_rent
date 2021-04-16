@@ -1,0 +1,11 @@
+{
+  "db": {
+    "username": "root",
+    "password": "",
+    "database": "bicycle_rent",
+    "dialect": "mysql",
+    "host": "localhost",
+    "port": 3306
+  },
+  "secret": "my_secret"
+}
